@@ -12,7 +12,9 @@ html {
 }
 
 html {
-  background-size: cover;
+  background: url("../img/pattern.png");
+  background-repeat: repeat;
+  background-size: 400px 400px;
 }
 
 h1, h2, h3, h4, h6 {
